@@ -14,7 +14,7 @@
 <br>
 <br>
 
- ![portal ](../main/ORIGINAL vs UPSCALED.png)
+ ![portal ](../ORIGINAL%20vs%20UPSCALED.png)
 
 </div>
 
